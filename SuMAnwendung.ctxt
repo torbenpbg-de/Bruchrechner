@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SuMAnwendung
+comment1.params=
+comment1.target=SuMAnwendung()
+comment1.text=\n\ Konstruktor\n
+comment2.params=
+comment2.target=void\ butAddiGeklickt()
+comment2.text=\n\ Vorher\:\ Ereignis\ GeklicktvonbutAddi\ fand\ statt.\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\n
+comment3.params=
+comment3.target=void\ butSubtGeklickt()
+comment3.text=\n\ Vorher\:\ Ereignis\ GeklicktvonbutSubt\ fand\ statt.\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\n
+comment4.params=
+comment4.target=void\ butMultiGeklickt()
+comment4.text=\n\ Vorher\:\ Ereignis\ GeklicktvonbutMulti\ fand\ statt.\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\n
+comment5.params=
+comment5.target=void\ butDiviGeklickt()
+comment5.text=\n\ Vorher\:\ Ereignis\ GeklicktvonbutDivi\ fand\ statt.\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\n
+comment6.params=
+comment6.target=void\ butEndeGeklickt()
+comment6.text=\n\ Vorher\:\ Ereignis\ GeklicktvonbutEnde\ fand\ statt.\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\n
+numComments=7

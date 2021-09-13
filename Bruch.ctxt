@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bruch
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bruch.\n\ \n\ @author\ TorbenPBG\ \n\ @version\ v8.30.1\n
+comment1.params=pZaehler\ pNenner
+comment1.target=Bruch(int,\ int)
+comment2.params=pZaehler
+comment2.target=void\ setzeZaehler(int)
+comment3.params=pNenner
+comment3.target=void\ setzeNenner(int)
+comment4.params=
+comment4.target=int\ gibZaehler()
+comment5.params=
+comment5.target=int\ gibNenner()
+comment6.params=pFaktor
+comment6.target=void\ erweitereMit(int)
+comment7.params=pTeiler
+comment7.target=void\ kurezeDurch(int)
+comment8.params=
+comment8.target=void\ kurezeVollstaendig()
+numComments=9

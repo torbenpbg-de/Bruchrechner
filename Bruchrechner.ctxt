@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bruchrechner
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bruchrechner.\n\ \n\ @author\ TorbenPBG\ \n\ @version\ v8.30.1\n
+comment1.params=
+comment1.target=Bruchrechner()
+comment2.params=pBruch1\ pBruch2
+comment2.target=Bruch\ summe(Bruch,\ Bruch)
+comment3.params=pBruch1\ pBruch2
+comment3.target=Bruch\ differnez(Bruch,\ Bruch)
+comment4.params=pBruch1\ pBruch2
+comment4.target=Bruch\ produkt(Bruch,\ Bruch)
+comment5.params=pBruch1\ pBruch2
+comment5.target=Bruch\ quotient(Bruch,\ Bruch)
+numComments=6
