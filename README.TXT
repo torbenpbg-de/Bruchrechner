@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG: Projekt Bruchrechner
+PROJEKTBEZEICHNUNG: Bruchrechner
 PROJEKTZWECK:
-VERSION oder DATUM: v8.23.1
+VERSION oder DATUM: v8.30.1
 WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN): TorbenPBG und BON vom BBG-DO
+AUTOR(EN): Torben P
 BENUTZERHINWEISE:
